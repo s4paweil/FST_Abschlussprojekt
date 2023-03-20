@@ -1,0 +1,278 @@
+topProjects[] = 11969947, aokpx-private/platform_packages_apps_Calendar, https://github.com/aokpx-private/platform_packages_apps_Calendar, 4131
+Daniel Sandler ### 3
+Debajit Ghosh ### 7
+Mike Cleron ### 2
+Andy McFadden ### 25
+Jim Shuma ### 2
+Mindy Pereira ### 16
+Katherine Kuan ### 1
+mac_wang ### 1
+Baligh Uddin ### 33
+Erik ### 237
+Andrew Flynn ### 6
+Android (Google) Code Review ### 702
+David Brown ### 4
+Andy Huang ### 1
+Ken Shirriff ### 10
+Android Git Automerger ### 1273
+Takaoka G. Tadashi ### 2
+Kenny Root ### 7
+Doug Zongker ### 1
+Mason Tang ### 45
+Dianne Hackborn ### 7
+Sam Blitzstein ### 4
+android-build SharedAccount ### 3
+isaack ### 3
+Jeff Sharkey ### 2
+Brad Fitzpatrick ### 2
+Gilles Debunne ### 3
+Ed Heyl ### 6
+Jason Chen ### 1
+Luis Cruz ### 4
+Daniel Lehmann ### 1
+Michael Chan ### 386
+Sriram Raman ### 1
+Jeff Brown ### 1
+Fabrice Di Meglio ### 2
+Romain Guy ### 1
+Ying Wang ### 33
+Amith Yamasani ### 1
+The Android Automerger ### 318
+Brett Chabot ### 1
+James Kung ### 1
+satok ### 1
+Guang Zhu ### 1
+Christian Robertson ### 1
+Kevin Barry ### 1
+android code review ### 2
+Sara Ting ### 81
+Alon Albert ### 6
+The Android Open Source Project ### 125
+Eric Fischer ### 227
+Adam Powell ### 2
+Mohammad Shamsi ### 1
+Johan Redestig ### 1
+Christian Mehlmauer ### 2
+Claudia de Veaux ### 1
+Evan Millar ### 2
+Mike Lockwood ### 1
+Chet Haase ### 1
+Peter Ng ### 11
+Android Code Review ### 4
+Adam Lesinski ### 2
+Roy West ### 1
+Isaac Katzenelson ### 160
+Daisuke Miyakawa ### 40
+Adam Cohen ### 1
+Fred Quintana ### 8
+Jesse Wilson ### 1
+Svetoslav Ganov ### 1
+Jeff Hamilton ### 3
+Michael Jurka ### 3
+Paul Westbrook ### 4
+Bai Tao ### 1
+RoboErik ### 228
+android-merger ### 7
+Winson Chung ### 2
+Justin Ho ### 10
+Jean-Baptiste Queru ### 26
+Dmitri Plotnikov ### 3
+, 78.0
+topProjects[] = 10476054, dana-i2cat/opennaas-routing-nfv, https://github.com/dana-i2cat/opennaas-routing-nfv, 4227
+carlos ### 23
+Jordi Puig ### 774
+Eli Rigol ### 26
+Santiago García Pimentel ### 1
+Eduard Grasa ### 8
+santiago garcia pimentel ### 4
+Roc Vallès ### 106
+isartcanyameres ### 882
+Pau Minoves ### 105
+xavier_barrera ### 2
+Bo Peng ### 1
+Elisabeth Rigol ### 22
+Adrian Rosello ### 477
+jordi_puig ### 15
+jordi-puig ### 7
+eduard_grasa ### 50
+adrian-rosello ### 18
+Josep ### 34
+carlos_baez ### 479
+lisset_diaz ### 29
+pau_minoves ### 100
+Isart ### 27
+Gerd Behrmann ### 114
+evelyn_torras ### 127
+Manel Jara ### 137
+bot_manticore ### 1
+Julio Carlos Barrera Juez ### 61
+josep ### 35
+Alfonso Burgos ### 7
+eliRigol ### 23
+logoff ### 122
+isart_canyameres ### 261
+Josep Batalle ### 1
+roc_valles ### 123
+jbatalle ### 25
+, 35.0
+topProjects[] = 1287859, ceylon/ceylon-compiler, https://github.com/ceylon/ceylon-compiler, 8843
+Tomas Hradec ### 2
+thradec ### 140
+lublud ### 2
+Aleš Justin ### 1
+Stephane Epardaud ### 3728
+Tom Bentley ### 2510
+David Festal ### 96
+Ales Justin ### 1
+Mladen Turk ### 5
+Jesse Sightler ### 2
+Gary Benson ### 385
+aph ### 280
+Raimund Klein ### 3
+Enrique Zamudio ### 118
+Emmanuel Bernard ### 6
+hradec ### 14
+Sergej Koščejev ### 44
+Soheil Hassas Yeganeh ### 1
+Lucas Werkmeister ### 7
+Tako Schotanus ### 1380
+Stéphane Épardaud ### 31
+Markus Rydh ### 3
+Ben Keating ### 4
+Gavin King ### 22
+Matej Lazar ### 8
+Flavio Oliveri ### 38
+gavinking ### 12
+, 27.0
+topProjects[] = 1423812, localwiki/localwiki, https://github.com/localwiki/localwiki, 1642
+Satoshi IIDA ### 2
+Jonathan Wilde ### 1
+hampelm ### 5
+philip ### 1
+Mike Ivanov ### 436
+Ben Rousch ### 7
+groovecoder ### 25
+Paul Ivanov ### 4
+mivanov ### 3
+Nuno Maltez ### 19
+Hendrik Grahl ### 4
+Nick Wiltsie ### 1
+Pedro Lima ### 18
+Ryan Tucker ### 6
+Jay Bazuzi ### 2
+Niran Babalola ### 10
+wrought ### 1
+j-po ### 1
+Philip Neustrom ### 1070
+Chris Alfano ### 1
+luke crouch ### 3
+Michael Ivanov ### 5
+Taro Matsuzawa ### 10
+Edward Vielmetti ### 2
+J Polin ### 5
+, 25.0
+topProjects[] = 3171933, rfkrocktk/red5-server, https://github.com/rfkrocktk/red5-server, 2522
+mondain ### 471
+jtian ### 2
+daccattato ### 51
+pgregoire ### 349
+jbauch ### 886
+joachim.bauch ### 12
+electroteque ### 8
+thijstriemstra ### 4
+glecanu ### 2
+mabrek ### 23
+sgong ### 136
+thijs.triemstra ### 12
+mklishin ### 23
+drossi ### 27
+seisenmann ### 3
+jgrden ### 107
+lhubbard ### 143
+art.clarke ### 84
+callen ### 1
+TTriemstra ### 147
+mvanbeek ### 19
+marijanm ### 3
+tiago.jacobs ### 9
+, 23.0
+topProjects[] = 11165374, hyxf/coder, https://github.com/hyxf/coder, 142
+yeungeek ### 5
+wangxin05 ### 1
+kris1987 ### 3
+qiudongchao ### 45
+贾敬春 ### 4
+ronanhardiman ### 1
+leaf ### 1
+hyxf ### 14
+King Law ### 1
+wangxin ### 3
+Iceskysl ### 3
+IceskYsl ### 11
+程辉 ### 2
+geniusgithub ### 2
+com360 ### 35
+feicien ### 4
+kaxi4it ### 1
+rockybean ### 1
+Vincent 4J ### 1
+yjl ### 4
+, 20.0
+topProjects[] = 1767567, ebayopensource/turmeric-runtime, https://github.com/ebayopensource/turmeric-runtime, 322
+Anandharaman Vedha ### 5
+Vivek ### 31
+dcarver@intalio.com ### 2
+wdeng ### 28
+vthangathurai ### 10
+Puvanenthiran Subbaraj ### 19
+unknown ### 35
+mchinea ### 52
+nacha ### 7
+Ajith Joseph ### 3
+(no author) ### 1
+dcarver ### 53
+josealvarezmuguerza ### 27
+David Carver ### 42
+rbhat ### 7
+, 15.0
+topProjects[] = 6282397, DownGoat/MonsterMash, https://github.com/DownGoat/MonsterMash, 244
+jau1 ### 29
+James ### 2
+Llion Vaughan ### 35
+Anonymous ### 5
+Filip Zajac ### 16
+Llion Wyn Vaughan ### 25
+sjk4 ### 58
+XSSu=&{()} ### 2
+DownGoat ### 15
+sis13 ### 23
+Yarrow Paddon-Butler ### 6
+Daniel Hopkins ### 3
+Sindre Smistad ### 25
+, 13.0
+topProjects[] = 5970676, eclipse/webtools.jsf, https://github.com/eclipse/webtools.jsf, 1493
+itrimble ### 237
+crogers ### 30
+rsrinivasan ### 172
+raghusri ### 1
+Cameron Bateman ### 1
+jechoi ### 113
+cbateman ### 598
+Ian Trimble ### 31
+justinchen ### 39
+david_williams ### 17
+Raghu Srinivasan ### 1
+gkessler ### 253
+, 12.0
+topProjects[] = 5125452, nfms4redd/nfms-utils, https://github.com/nfms4redd/nfms-utils, 75
+Simone Giannecchini ### 6
+damiano.giampaoli@geo-solutions.it ### 2
+Stefano Giaccio ### 1
+Damiano ### 33
+sgiaccio ### 1
+Damianofds ### 8
+etj ### 1
+Fernando Gonzalez Cortes ### 1
+Oscar Fonts ### 21
+damiano ### 1
+, 10.0
